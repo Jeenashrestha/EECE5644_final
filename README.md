@@ -3,6 +3,7 @@
 This project builds a machine learning pipeline to predict whether a diabetic patient will be readmitted within 30 days using the UCI Diabetes 130-US Hospitals dataset.
 
 **Project Overview**
+
 Task: Binary classification (30-day readmission)
 Model: XGBoost (best performing)
 Evaluation: PR-AUC, ROC-AUC, F1, precision, recall
