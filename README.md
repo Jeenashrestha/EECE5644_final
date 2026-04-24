@@ -5,12 +5,19 @@ This project builds a machine learning pipeline to predict whether a diabetic pa
 **Project Overview**
 
 Task: Binary classification (30-day readmission)
-Model: XGBoost (best performing)
+
+Best performing model: XGBoost 
+
 Evaluation: PR-AUC, ROC-AUC, F1, precision, recall
-Final Results
+
+
+**Final Results**
 PR-AUC: 0.2304
+
 ROC-AUC: 0.6698
+
 F1 Score: 0.2774
+
 Recall: 0.4594
 
 **How to Run (Google Colab)**
